@@ -1,0 +1,12 @@
+{
+  "name": "Remix CropGuard AI - Crop Disease \u0026 Agri Assistant",
+  "description": "AI-powered crop disease detection, real-time mandi prices, government schemes, fertilizer locator, and Kisan AI assistant for farmers.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
